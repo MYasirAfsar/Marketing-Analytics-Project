@@ -18,7 +18,8 @@ Acquisition Cost, ROI, Customer Segment, Campaign Goal
 - SQL (PostgreSQL) - data aggregation and analysis
 - Excel - visualization and dashboard
 
-## Key Findings
+## Key Findings <img width="1570" height="917" alt="image" src="https://github.com/user-attachments/assets/ea5d72f6-dc2d-4077-b1e2-d12f0ad8ccd6" />
+
 - Pinterest campaigns show a dramatically lower average ROI (~0.72)
 compared to Facebook, Twitter, and Instagram (all averaging ~4.0)
 - Conversion rate is nearly flat across all campaign goals
